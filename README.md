@@ -40,6 +40,11 @@ Classification Report
    macro avg       0.94      0.97      0.95     19384
 weighted avg       0.99      0.99      0.99     19384
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 
 
