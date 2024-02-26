@@ -30,7 +30,7 @@ To further analyse the dataset , Decision Tree and Randon Tree Forest were also 
 Actual 0	18673		86
 Actual 1	32		593
 Accuracy Score : 0.993912505158894
-Classification Report
+Classification Report 
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     18759
