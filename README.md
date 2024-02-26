@@ -32,36 +32,14 @@ To further analyse the dataset , Decision Tree and Randon Tree Forest were also 
 
 
 * Machine Learning Model 2:
-  * Confusion Matrix for Decision Tree
-		Predicted 0	Predicted 1
-Actual 0	18681		78
-Actual 1	119		506
-Accuracy Score : 0.9898369789517127
-Classification Report
-              precision    recall  f1-score   support
 
-           0       0.99      1.00      0.99     18759
-           1       0.87      0.81      0.84       625
-
-    accuracy                           0.99     19384
-   macro avg       0.93      0.90      0.92     19384
-weighted avg       0.99      0.99      0.99     19384
+* ![Alt text](Starter_Code/Screenshots/Image2.png?raw=true "Optional Title")
+  
 
 * Machine Learning Model 3:
-*  Confusion Matrix for Random Tree Forest
-		Predicted 0	Predicted 1
-Actual 0	18680		79
-Actual 1	72		553
-Accuracy Score : 0.9922100701609575
-Classification Report
-              precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00     18759
-           1       0.88      0.88      0.88       625
-
-    accuracy                           0.99     19384
-   macro avg       0.94      0.94      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
+* ![Alt text](Starter_Code/Screenshots/Image3.png?raw=true "Optional Title")
+  
 
 
 
