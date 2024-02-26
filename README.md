@@ -25,20 +25,7 @@ To further analyse the dataset , Decision Tree and Randon Tree Forest were also 
 
 
 * Machine Learning Model 1:
-  * Confusion Matrix for Logistic Regression
-		Predicted 0	Predicted 1
-Actual 0	18673		86
-Actual 1	32		593
-Accuracy Score : 0.993912505158894
-Classification Report 
-              precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00     18759
-           1       0.87      0.95      0.91       625
-
-    accuracy                           0.99     19384
-   macro avg       0.94      0.97      0.95     19384
-weighted avg       0.99      0.99      0.99     19384
+  ![Alt text](Screenshots/Image.jpg?raw=true "Optional Title")
 
 
 
