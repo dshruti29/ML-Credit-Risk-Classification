@@ -24,25 +24,22 @@ To further analyse the dataset , Decision Tree and Randon Tree Forest were also 
 
 
 
-* Machine Learning Model 1:
+* Machine Learning Model 1:Logistic Regression
 * 
   ![Alt text](Starter_Code/Screenshots/Image1.png?raw=true "Optional Title")
 
 
 
-
-* Machine Learning Model 2:
+* Machine Learning Model 2:Decision Tree 
 
 * ![Alt text](Starter_Code/Screenshots/Image2.png?raw=true "Optional Title")
   
 
-* Machine Learning Model 3:
+
+* Machine Learning Model 3:Random Forest
 
 * ![Alt text](Starter_Code/Screenshots/Image3.png?raw=true "Optional Title")
   
-
-
-
 
 ## Summary
 
